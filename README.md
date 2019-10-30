@@ -23,9 +23,14 @@
 
 ### Domain
 > The following domains are used:
+#### Platform Website
 * [www.nofice.com](www.nofice.com)
 * [nofice.com](nofice.com)
-* [www.nofice.se](nofice.se)
+* [nofice.se](nofice.se)
+* [www.nofice.se](www.nofice.se)
+#### About Website
+* [about.nofice.com](about.nofice.com)
+* [about.nofice.se](about.nofice.se)
 
 ## Graphics
 ### Logo
