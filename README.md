@@ -11,7 +11,8 @@
 
 ### About
 > Nofice is a company that provide solutions through technology,  
-> offering top notch consultancy without spending a dime on an office.
+> offering top notch consultancy without spending a dime on an office.  
+> [Read More](ABOUT.md)
 
 ### Main Product
 > The vital and primary product of Nofice is the consultancy platform,  
