@@ -6,6 +6,7 @@
 > The official Nofice branding documentation.
 
 ## Content of property
+
 ### Slogan
 > Nofice - _Innovation and technology does not require an office_
 
@@ -23,16 +24,19 @@
 
 ### Domain
 > The following domains are used:
+
 #### Platform Website
 * [www.nofice.com](www.nofice.com)
 * [nofice.com](nofice.com)
-* [nofice.se](nofice.se)
 * [www.nofice.se](www.nofice.se)
+* [nofice.se](nofice.se)
+
 #### About Website
 * [about.nofice.com](about.nofice.com)
 * [about.nofice.se](about.nofice.se)
 
 ## Graphics
+
 ### Logo
 > The logo can befound here [graphics/logo.png](graphics/logo.png).  
 > And here are some use cases of the logo:
