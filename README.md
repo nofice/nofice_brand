@@ -18,7 +18,7 @@
 > where consultants can publish them self, and third-party entities such as
 > companies and individuals can rent them.  
 > All contracts are being implemented through this platform.  
-> [MAIN\_PRODUCT.md](Read More)
+> [MAIN\_PRODUCT.md](ReadMore)
 
 ### Domain
 > The following domains are used:
