@@ -49,9 +49,6 @@
 ### Colors
 > The colors being used are the following:
 ```sass
-$bright_green: #28a528
-$darker_green: #129b12
-$darkest_green: #097c09
-$bright_brown: #bf6101
-$darker_brown: #9a4d01
+$color_primary: #fc6161;
+$color_dark: #141414;
 ```
