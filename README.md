@@ -48,7 +48,7 @@
 
 ### Colors
 > The colors being used are the following:
-```sass
+```scss
 $color_primary: #fc6161;
 $color_dark: #141414;
 ```
