@@ -50,5 +50,9 @@
 > The colors being used are the following:
 ```scss
 $color_primary: #fc6161;
+$color_secondary: #29ACAD;
+$color_light: #F0E0B5;
+$color_ok: #9CD089;
+$color_dark_primary: #14354B;
 $color_dark: #141414;
 ```
